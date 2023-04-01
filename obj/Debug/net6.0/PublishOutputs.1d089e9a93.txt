@@ -1,0 +1,7 @@
+D:\ExampleMVC\bin\Debug\net6.0\publish\ExampleMVC.exe
+D:\ExampleMVC\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\ExampleMVC\bin\Debug\net6.0\publish\appsettings.json
+D:\ExampleMVC\bin\Debug\net6.0\publish\ExampleMVC.dll
+D:\ExampleMVC\bin\Debug\net6.0\publish\ExampleMVC.deps.json
+D:\ExampleMVC\bin\Debug\net6.0\publish\ExampleMVC.runtimeconfig.json
+D:\ExampleMVC\bin\Debug\net6.0\publish\ExampleMVC.pdb
