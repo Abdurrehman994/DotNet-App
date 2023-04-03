@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qgJtJgmC9EoXgGGk1+e6TPfCpt7PT0SiVHwAE6j1gyeQCNHdfHgYOxHMHpObu5ahnH2AEHc9oleZoaKbs6x5jg==",
+  "dgSpecHash": "Bzpknp79oQ12UySu5HwI3l6uakUnuCpvAtv0H1wsncIQ0r9A5rn5zHYyrApJ3+lhmJ+FCA8qZrSoPz/IxwC6Kw==",
   "success": true,
-  "projectFilePath": "D:\\ExampleMVC\\ExampleMVC.csproj",
+  "projectFilePath": "D:\\devops_projects\\Training\\ExampleMVC\\ExampleMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
